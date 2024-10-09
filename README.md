@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Buu and I'm a Software Engineer, from Vietnam</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Current%20Year-Final%20Year%20at%20FPT%20HCMC-violet" alt="Current Year" />
+  <img src="https://img.shields.io/badge/Current_year-Final_year_at_FPTU_HCMC-violet" alt="Current Year" />
 </p>
 
 <h2 style="text-align: left">📊 GitHub Stat</h2>
