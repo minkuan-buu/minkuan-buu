@@ -1,15 +1,11 @@
 <div align="center">
-  <h2 style="text-align: left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+  <h2 style="text-align: left">Hi 👋! My name is Buu and I'm a Software Engineer, from Vietnam</h2>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minkuan-buu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minkuan-buu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
