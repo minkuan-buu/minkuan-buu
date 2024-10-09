@@ -12,7 +12,7 @@
 
 ###
 
-<h2 style="text-align: left">🛠 Languages</h2>
+<h2 style="text-align: left">🛠 Languages and Tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
