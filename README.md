@@ -54,5 +54,5 @@
 
 ###
 <h2 style="text-align: left">🎵 Music</h2>
-###
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=iri5vplxlqnoqjixqf99fr4w8)
